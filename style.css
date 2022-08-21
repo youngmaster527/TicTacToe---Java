@@ -1,0 +1,14 @@
+#output{
+    height: 80px;
+    width: 160px;
+    background-color: black;
+    color: white;
+}
+
+.nums{
+
+}
+
+.funcs{
+    background-color: orange;
+}
